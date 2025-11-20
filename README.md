@@ -1,2 +1,2 @@
 # GD32F425VGT6-FreeRtos_Demo
-基于GD32F425VGT6Demo工程移植了FreeRtos系统，栈给的是200K
+基于GD32F425VGT6Demo工程移植了FreeRtos系统，栈给的是2K
